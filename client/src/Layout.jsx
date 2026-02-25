@@ -3,6 +3,8 @@ import Navbar from './components/layouts/Navbar'
 import { Outlet } from 'react-router-dom'
 import Footer from './components/layouts/Footer'
 
+
+
 const Layout = () => {
   return (
     /* flex-col: Stack children vertically
