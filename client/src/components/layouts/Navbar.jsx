@@ -7,12 +7,13 @@ const Navbar = () => {
   // humburgen btn 
   const [isOpen, setIsOpen] = useState(false);
 
-  
+
   return (
     <nav className="w-full bg-white shadow-md sticky top-0 z-50">
       
       {/* Top Row */}
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+        
         
         {/* Logo - hide on mobile */}
         <div className=" md:block text-xl font-bold text-blue-600">
