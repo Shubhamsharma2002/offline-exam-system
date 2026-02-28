@@ -4,6 +4,7 @@ import { Menu, X } from "lucide-react";
 
 
 const Navbar = () => {
+  // humburgen btn 
   const [isOpen, setIsOpen] = useState(false);
 
   return (
