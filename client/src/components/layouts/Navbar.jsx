@@ -7,6 +7,7 @@ const Navbar = () => {
   // humburgen btn 
   const [isOpen, setIsOpen] = useState(false);
 
+  
   return (
     <nav className="w-full bg-white shadow-md sticky top-0 z-50">
       
