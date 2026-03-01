@@ -18,6 +18,7 @@ const Navbar = () => {
           ExamPortal
         </div>
 
+
         {/* Desktop Links */}
         <ul className="hidden md:flex gap-8 text-gray-700 font-medium">
           <li><Link to="/">Home</Link></li>
@@ -33,6 +34,8 @@ const Navbar = () => {
             </Link>
           </li>
         </ul>
+
+
 
         {/* Hamburger - only mobile */}
         <div className="md:hidden ml-auto">
