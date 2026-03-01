@@ -13,8 +13,6 @@ const Navbar = () => {
       
       {/* Top Row */}
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-        
-        
         {/* Logo - hide on mobile */}
         <div className=" md:block text-xl font-bold text-blue-600">
           ExamPortal
