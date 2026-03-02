@@ -34,6 +34,7 @@ const Footer = () => {
         <div className='text-center text-sm text-blue-300'>
            © {new Date().getFullYear()} All rights reserved with the team.
         </div>
+        
     </footer>
   )
 }
