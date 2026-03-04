@@ -29,8 +29,6 @@ const Footer = () => {
         </div>
         <hr className='border-blue-700 mb-6' />
 
-
-
         {/* Bottom Section: Centered */}
         <div className='text-center text-sm text-blue-300'>
            © {new Date().getFullYear()} All rights reserved with the team.
