@@ -12,6 +12,7 @@ const Footer = () => {
                 <p className='text-blue-200'>+91 9898798798</p>
             </div>
 
+
             {/* Column 2 */}
             <div className='flex flex-col gap-2'>
                 <p className='font-bold text-lg'>Support</p>
