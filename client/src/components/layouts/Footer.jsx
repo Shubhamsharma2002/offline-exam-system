@@ -2,6 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
+    
     <footer className='bg-blue-900 text-white px-10 py-10 '>
         {/* Container for the links: Stacked on mobile, 3 columns on medium screens+ */}
         <div className='grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left mb-8'>
