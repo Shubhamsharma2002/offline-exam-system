@@ -17,7 +17,6 @@ const Footer = () => {
                 <p className='text-blue-200'>Privacy Policy</p>
                 <p className='text-blue-200'>Terms of Service</p>
             </div>
-
             {/* Column 3 - Logo/Branding */}
             <div className='flex flex-col items-center md:items-start justify-center'>
                 <div className='bg-white text-blue-900 px-4 py-2 rounded-lg font-black'>
