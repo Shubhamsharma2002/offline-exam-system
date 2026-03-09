@@ -24,7 +24,6 @@ const Footer = () => {
                 </div>
             </div>
         </div>
-        
         <hr className='border-blue-700 mb-6' />
         {/* Bottom Section: Centered */}
         <div className='text-center text-sm text-blue-300'>
